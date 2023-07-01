@@ -1,0 +1,40 @@
+{
+    "produtos": [
+        {
+            "nome": "Multi-layered 3rdgeneration functionalities",
+            "preco": 633,
+            "descricao": "Extended multi-state forecast",
+            "quantidade": 60
+        },
+        {
+            "nome": "Re-contextualized full-range customer loyalty",
+            "preco": 798,
+            "descricao": "Right-sized mission-critical approach",
+            "quantidade": 45
+        },
+        {
+            "nome": "Cross-platform directional focus group",
+            "preco": 527,
+            "descricao": "Streamlined optimizing functionalities",
+            "quantidade": 48
+        },
+        {
+            "nome": "Ergonomic responsive definition",
+            "preco": 499,
+            "descricao": "Profound optimal archive",
+            "quantidade": 24
+        },
+        {
+            "nome": "Stand-alone high-level orchestration",
+            "preco": 891,
+            "descricao": "Operative composite solution",
+            "quantidade": 41
+        },
+        {
+            "nome": "Ergonomic neutral analyzer",
+            "preco": 164,
+            "descricao": "Customizable national complexity",
+            "quantidade": 51
+        }
+    ]
+}

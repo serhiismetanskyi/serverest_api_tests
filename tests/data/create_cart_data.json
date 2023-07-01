@@ -1,0 +1,44 @@
+{
+    "carrinhos": [
+        {
+            "produtos": [
+                {
+                    "idProduto": "rrMPjUybXg9lDcQK",
+                    "quantidade": 3
+                },
+                {
+                    "idProduto": "mwSPg3q23oYcnNH6",
+                    "quantidade": 3
+                },
+                {
+                    "idProduto": "3CKd1D98n21uUTkO",
+                    "quantidade": 1
+                }
+            ]
+        },
+        {
+            "produtos": [
+                {
+                    "idProduto": "ENxkBnFEiyzogs1P",
+                    "quantidade": 1
+                },
+                {
+                    "idProduto": "WZK0DCoBx4FzcICE",
+                    "quantidade": 1
+                },
+                {
+                    "idProduto": "3CKd1D98n21uUTkO",
+                    "quantidade": 3
+                }
+            ]
+        },
+        {
+            "produtos": [
+                {
+                    "idProduto": "ABOfkGickphU1vss",
+                    "quantidade": 2
+                }
+            ]
+        }
+    ]
+}

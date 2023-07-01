@@ -1,0 +1,22 @@
+{
+    "usuarios": [
+        {
+            "nome": "Mary Jones",
+            "email": "katherinejones@example.net",
+            "password": ")w84(L6m@d",
+            "administrador": "true"
+        },
+        {
+            "nome": "Thomas Acosta",
+            "email": "nhays@example.com",
+            "password": "x9c$Xfg0#e",
+            "administrador": "false"
+        },
+        {
+            "nome": "Carrie Moss",
+            "email": "saunderscourtney@example.org",
+            "password": "%JDyoEw40w",
+            "administrador": "false"
+        }
+    ]
+}

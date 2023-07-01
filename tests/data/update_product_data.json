@@ -1,0 +1,40 @@
+{
+    "produtos": [
+        {
+            "nome": "Virtual logistical Internet solution",
+            "preco": 177,
+            "descricao": "Profit-focused next generation extranet",
+            "quantidade": 40
+        },
+        {
+            "nome": "User-friendly multi-state intranet",
+            "preco": 686,
+            "descricao": "Operative grid-enabled attitude",
+            "quantidade": 75
+        },
+        {
+            "nome": "Reactive 6thgeneration projection",
+            "preco": 409,
+            "descricao": "Realigned systemic architecture",
+            "quantidade": 49
+        },
+        {
+            "nome": "Compatible local budgetary management",
+            "preco": 376,
+            "descricao": "Multi-layered demand-driven access",
+            "quantidade": 52
+        },
+        {
+            "nome": "Ergonomic composite product",
+            "preco": 581,
+            "descricao": "Fundamental tangible algorithm",
+            "quantidade": 68
+        },
+        {
+            "nome": "Versatile tertiary pricing structure",
+            "preco": 515,
+            "descricao": "Balanced zero-defect flexibility",
+            "quantidade": 39
+        }
+    ]
+}
