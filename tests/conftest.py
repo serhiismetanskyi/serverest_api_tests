@@ -12,7 +12,7 @@ from utils.file_manager import FileManager
 from utils.data_generator import DataGenerator
 
 
-@pytest.fixture(scope="session")
+@pytest.fixture
 def context():
     return {}
 
